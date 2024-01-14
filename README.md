@@ -17,7 +17,7 @@ I'm Mary a Front End Developer and Digital Designer. I spend most of my time cod
 marylongworth100@gmail.com
 
 - 🔭 I’m currently working on a Gluten Free App
-- 🌱 I’m currently learning React & Typescript
+- 🤓 Using React & Typescript mostly
 - 👯 I’m looking to collaborate on my Gluten Free App
 - 📫 How to reach me: email
 
